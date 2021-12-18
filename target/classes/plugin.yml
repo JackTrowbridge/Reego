@@ -1,0 +1,7 @@
+name: Reego
+version: '1.0-SNAPSHOT'
+main: org.reego.reego.Reego
+api-version: 1.18
+authors: [ JAYJAYTEE ]
+description: The core plugin for the Minecraft server Reego
+website: mc.reego.org
